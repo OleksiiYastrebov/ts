@@ -10,5 +10,7 @@
    "keywords": [],
    "author": "",
    "license": "ISC",
-   "dependencies": {}
+   "dependencies": {
+      "typescript": "^5.3.2"
+   }
 }
