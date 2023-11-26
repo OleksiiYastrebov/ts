@@ -1,0 +1,14 @@
+{
+   "name": "ts",
+   "version": "1.0.0",
+   "description": "",
+   "main": "dist/index.js",
+   "type": "module",
+   "scripts": {
+      "task2": "node dist/updateObjectInArray.js"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "dependencies": {}
+}
